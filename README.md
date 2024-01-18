@@ -47,6 +47,6 @@ For more details, visit the <a href="https://natsasion-portfolio.netlify.app/">[
 This project is licensed under the Natsasion License - see the [LICENSE.md](LICENSE) file for details.
 
 ## Contact
-If you have any questions or feedback, please don't hesitate to reach out to me at [natsasion.sri@gmail.com](mailto:natsasion.sri@gmail.com).
+If you have any questions or feedback, please don't hesitate to reach out to me at 
 
 Thank you for visiting my web portfolio, and I look forward to connecting with you!
